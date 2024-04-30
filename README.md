@@ -1,0 +1,2 @@
+# AFM
+Applied Financial Management
